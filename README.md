@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on JavaScript, ReactJs and Design Patterns
+- 🔭 I’m currently working on JavaScript, ReactJs
 - 🌱 I’m continuously learning 
-- 👯 I’m looking to collaborate on PWA's and SPA's
-- 💬 Ask me about Alohomora
-- 😄 Pronouns: She/Her
+- 👯 I’m looking to collaborate on Open Source Project
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 <details>
 <summary>📊 Github Stats</summary>
 </details>
